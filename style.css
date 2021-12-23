@@ -1,0 +1,52 @@
+html {
+    min-height: 100vh;
+    min-width: 100vw;
+}
+
+#header-recipe {
+    font-size: 4.5rem;
+    text-align: center;
+}
+
+a {
+    display: block;
+    color: white;
+    margin: auto;
+    font: 2.5rem Helveltica;
+    text-align: center;
+}
+
+#chicken {
+    float: inline-start;
+}
+
+#pho {
+    float: inline-end;
+}
+
+#lasagna {
+    display: inline-block;
+    margin-left: 5rem;
+    overflow: hidden;
+    width: 20rem;
+    text-align: right;
+}
+
+.gif-pizza-cook {
+    display: block;
+    margin: auto;
+
+}
+
+
+#toc {
+    display: block;
+    margin: 50px;
+    clear: both;
+    min-width: 90vw;
+    background-color: black;
+}
+
+.header-recipe {
+    color: red;
+}
